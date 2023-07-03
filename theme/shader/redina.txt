@@ -1,0 +1,20 @@
+// Shadertoy version: https://www.shadertoy.com/view/cdK3R1
+
+uniform shader iChunk;
+
+// Tint values are encoded as RGBA exponents.
+// An exponent of 1 have no effect on the color channel.
+// A higher exponent results in a darker color.
+// And a lower exponent will be brighter.
+const float4 TINT = float4(228, 17, 24, 1);
+
+vec4 main(vec2 xy)
+{
+    vec4 color = iChunk.eval(xy);
+    color.r = pow(color.r, TINT.r);
+    color.g = pow(color.g, TINT.g);
+    color.b = pow(color.b, TINT.b);
+
+    color.a = pow(color.a, TINT.a);
+    return color;
+}

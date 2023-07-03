@@ -1,0 +1,116 @@
+        
+
+     __          ___           _                                                       
+     \ \        / (_)         | |                       /\                             
+      \ \  /\  / / _ _ __   __| | _____      _____     /  \  _   _ _ __ ___  _ __ __ _ 
+       \ \/  \/ / | | '_ \ / _` |/ _ \ \ /\ / / __|   / /\ \| | | | '__/ _ \| '__/ _` |
+        \  /\  /  | | | | | (_| | (_) \ V  V /\__ \  / ____ \ |_| | | | (_) | | | (_| |
+         \/  \/   |_|_| |_|\__,_|\___/ \_/\_/ |___/ /_/    \_\__,_|_|  \___/|_|  \__,_|
+                                                                                   
+                                                                                                                                                                  
+                                                                                                                     
+      
+                                presents
+      
+      
+             _   _         _                 _         ____  _____   _____   __  __  ____  _____  
+            | \ | (_)     | |               | |       |___ \|  __ \ / ____| |  \/  |/ __ \|  __ \ 
+            |  \| |_ _ __ | |_ ___ _ __   __| | ___     __) | |  | | (___   | \  / | |  | | |  | |
+            | . ` | | '_ \| __/ _ \ '_ \ / _` |/ _ \   |__ <| |  | |\___ \  | |\/| | |  | | |  | |
+            | |\  | | | | | ||  __/ | | | (_| | (_) |  ___) | |__| |____) | | |  | | |__| | |__| |
+            |_| \_|_|_| |_|\__\___|_| |_|\__,_|\___/  |____/|_____/|_____/  |_|  |_|\____/|_____/ 
+                                                                                       
+                                                                                       
+      
+      
+ 
+                                           
+ ____                  _     _   _         
+|    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
+|  |  | -_|_ -|  _|  _| | . |  _| | . |   |
+|____/|___|___|___|_| |_|  _|_| |_|___|_|_|
+                        |_|                
+...............................................................................
+
+I Wanted To Make A 3DS Mod For All The Nintendo Fan Out There.
+Personally The 3DS Is My 2nd Most Favorite Console!
+Enjoy My Mod!
+ _____           _ _ _       
+|     |___ ___ _| |_| |_ ___ 
+|   --|  _| -_| . | |  _|_ -|
+|_____|_| |___|___|_|_| |___|
+...............................................................................
+I Dont Own Anything In This Mod So Please Dont Send The Nintendo Ninjas To Me
+
+
+Mod Icon - https://www.gamebrew.org/wiki/3DSController / https://www.gamebrew.org/thumb.php?f=3ds.png&width=300
+Background Music Made And Owned By Nintendo I Dont Own Anything
+Background Music Used / Grabbed From :
+      Nintendo 3DS - Eshop June 2011 | https://youtu.be/m8fKw0QMXug
+      Nintendo 3DS - First Time Setup Screen 1 | https://youtu.be/kYKsFrpH1rk
+      Nintendo 3DS - Notifications | https://youtu.be/swohPJflx0E
+      Nintendo 3DS - System Settings | https://youtu.be/h105mFgMyXo
+Unused Background Music : 
+      Nintendo 3DS - Nintendo Video |  https://youtu.be/bpAHtjqUWvs
+All Browser Sounds / Sound Effects Grabbed From 3DS Nand "Nintendo 3DS" Is Owned By Nintendo.
+Light Mode New Tab Wallpaper From : https://wallpaper.mob.org/pc/image/video_game-nintendo_3ds-317986.html | https://w.forfun.com/fetch/f0/f029977fd7f0fafab9e655e08ed4d01c.jpeg?w=1000&r=0.5625
+Dark Mode New Tab Wallpaper Is Based On The Light Mode Wallpaper And Is Manipulated With Image Manipulation Sotware From Scratch By Me
+ __    _                         
+|  |  |_|___ ___ ___ ___ ___ ___ 
+|  |__| |  _| -_|   |  _| -_|_ -|
+|_____|_|___|___|_|_|___|___|___|
+...............................................................................
+               
+All assets used in this mod, including the mod icon and background music, are owned and copyrighted by Nintendo. The mod itself is a fan creation and does not claim ownership over any Nintendo assets.
+
+Note: This mod is created by a fan and is not officially affiliated with or endorsed by Nintendo. Please refer to Nintendo's terms of use and copyright policies for more information regarding the use of their assets.
+                       
+ _____       _         
+|  |  |_ _ _| |___ ___ 
+|    -| | | . | . |_ -|
+|__|__|___|___|___|___|
+...............................................................................
+                       
+Thanks To:
+brett717 For Dumping 3DS NAND Sound Effects. | https://www.reddit.com/r/3DS/comments/3zybvs/comment/cytka2x/?utm_source=share&utm_medium=web2x&context=3
+ChatGpt For Help About Ui Stuff ( Base Colors, ECT) | https://chat.openai.com
+
+ _____ _       ___ ___ 
+|   __| |_ _ _|  _|  _|
+|__   |  _| | |  _|  _|
+|_____|_| |___|_| |_|  
+...............................................................................
+                       
+My GitHub : https://github.com/WindowsAurora
+This Project Is FOSS See The Source Code Here : https://github.com/WindowsAurora/3DSMod
+
+  ______         _                       
+ |  ____|       | |                      
+ | |__ ___  __ _| |_ _   _ _ __ ___  ___ 
+ |  __/ _ \/ _` | __| | | | '__/ _ \/ __|
+ | | |  __/ (_| | |_| |_| | | |  __/\__ \
+ |_|  \___|\__,_|\__|\__,_|_|  \___||___/
+...............................................................................
+
+Background Music | RTM
+Browser Sounds | RTM
+KeyBoard Sounds | RTM
+Theme Accent Color ( No Light Version) | RTM
+Wallpaper (Dark/Light) | RTM
+
+   _____ _                            _                 
+  / ____| |                          | |                
+ | |    | |__   __ _ _ __   __ _  ___| | ___   __ _ ___ 
+ | |    | '_ \ / _` | '_ \ / _` |/ _ \ |/ _ \ / _` / __|
+ | |____| | | | (_| | | | | (_| |  __/ | (_) | (_| \__ \
+  \_____|_| |_|\__,_|_| |_|\__, |\___|_|\___/ \__, |___/
+                            __/ |              __/ |    
+                           |___/              |___/     
+
+RTM V1.0:
+First Mod Release
++Background Music
++Browser Sounds
++KeyBoard Sounds
++Theme Accent Color ( No Light Version)
++Wallpaper (Dark/Light)
