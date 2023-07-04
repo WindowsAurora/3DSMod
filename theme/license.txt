@@ -109,9 +109,9 @@ Wallpaper (Dark/Light) | RTM
 
 
 V1.0.1:
-Optimizations To Decrease Mod Size. 32.28MB ⇢ 17.6MB
-Better Zip File Naming.
-ReadMe Is Actually Good Now
++ReadMe Is Actually Good Now
+÷Optimizations To Decrease Mod Size. 32.28MB ⇢ 17.6MB
+÷Better Zip File Naming.
 
 RTM V1.0:
 First Mod Release
